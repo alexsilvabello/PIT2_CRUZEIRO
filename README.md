@@ -23,7 +23,7 @@ Este projeto tem como objetivo desenvolver um sistema de gestão de consumo de e
 ### 1. **Clone o repositório**
 
 ```bash
-   git clone https://github.com/arielsardinha/registro_de_energia.git
+   git clone [https://github.com/alexsilvabello/PIT2_CRUZEIRO.git]
 ```
 
 ### 2. **Crie o banco de dados no MySQL Workbench**
